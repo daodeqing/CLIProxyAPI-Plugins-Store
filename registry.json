@@ -2009,6 +2009,22 @@
         "Usage",
         "Management"
       ]
+    },
+    {
+      "id": "workbuddy-hub",
+      "name": "WorkBuddy Hub",
+      "description": "复用 WorkBuddy2API-Hub v1.7.24，通过 CPA 宿主端口提供国际版与国内版 OAuth、账号绑定模型、流式对话、工具调用和积分查询，内置 Windows Python 运行时。 / WorkBuddy international and domestic OAuth, account-bound models, streaming chat, tool calls and credit quotas through the existing CPA endpoint, with a bundled Windows Python runtime.",
+      "author": "daodeqing",
+      "repository": "https://github.com/daodeqing/cpa-plugin-WorkBuddyHub",
+      "homepage": "https://github.com/daodeqing/cpa-plugin-WorkBuddyHub",
+      "license": "MIT",
+      "tags": [
+        "Provider",
+        "OAuth",
+        "Quota",
+        "WorkBuddy",
+        "Streaming"
+      ]
     }
   ]
 }
